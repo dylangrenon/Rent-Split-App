@@ -7,7 +7,7 @@ class Bill:
 
 
 class Roommate:
-    """ Creates a roommate person who lives in the flat and pays a share of the bill. """
+    """ Creates a roommate person who lives in the apartment and pays a share of the bill. """
 
     def __init__(self, name, days_in_house):
         self.name = name
